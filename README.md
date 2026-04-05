@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikhil Surve</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Building+Real+Projects;Learning+Data+Science;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Projects;Learning+Data+Science;Open+to+Internships;Always+Learning+New+Tech" />
 </p>
 
 <br>
 ---
 # 💫 About Me:
-Hi 👋 I'm Nikhil Surve  <br>Aspiring Full Stack Developer 🚀  <br><br>💻 I’m currently working on  <br>- Full Stack Web Development projects  <br>- Building real-world portfolio projects  <br><br>🤝 I’m looking to collaborate on  <br>- Web development & open source projects  <br><br>🆘 I’m looking for help with  <br>- Advanced JavaScript & Backend  <br><br>🌱 I’m currently learning  <br>- Full Stack Development + Data Science  <br><br>💬 Ask me about  <br>- Web Development, GitHub, Projects  <br><br>⚡ Fun fact  <br>- I can build a project in 1 day but overthink the design for 3 days 😅
+Hi 👋  <br>Aspiring Full Stack Developer 🚀  <br><br>💻 I’m currently working on  <br>- Full Stack Web Development projects  <br>- Building real-world portfolio projects  <br><br>🤝 I’m looking to collaborate on  <br>- Web development & open source projects  <br><br>🆘 I’m looking for help with  <br>- Advanced JavaScript & Backend  <br><br>🌱 I’m currently learning  <br>- Full Stack Development + Data Science  <br><br>💬 Ask me about  <br>- Web Development, GitHub, Projects  <br><br>⚡ Fun fact  <br>- I can build a project in 1 day but overthink the design for 3 days 😅
 
 
 ## 🌐 Socials:
