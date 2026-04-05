@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Surve</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Projects;Learning+Data+Science;Open+to+Internships;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Projects;Learning+Data+Science;Open+to+Internships;Always+Learning+New+Tech" />
 </p>
 
 <br>
