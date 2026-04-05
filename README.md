@@ -4,8 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Projects;Learning+Data+Science;Open+to+Internships;Always+Learning+New+Tech" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github.com/nikhil-surve-dev/nikhil-surve-dev/blob/main/Git%20image.jpeg?raw=true" width="100%" />
+</p>
+
+<h3 align="center">Bridging Human Creativity with Technology 🚀</h3>
+
 ---
+
+
 # 💫 About Me:
 Hi 👋  <br>Aspiring Full Stack Developer 🚀  <br><br>💻 I’m currently working on  <br>- Full Stack Web Development projects  <br>- Building real-world portfolio projects  <br><br>🤝 I’m looking to collaborate on  <br>- Web development & open source projects  <br><br>🆘 I’m looking for help with  <br>- Advanced JavaScript & Backend  <br><br>🌱 I’m currently learning  <br>- Full Stack Development + Data Science  <br><br>💬 Ask me about  <br>- Web Development, GitHub, Projects  <br><br>⚡ Fun fact  <br>- I can build a project in 1 day but overthink the design for 3 days 😅
 
