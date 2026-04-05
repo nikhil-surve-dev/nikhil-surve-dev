@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/nikhil-surve-dev/nikhil-surve-dev/blob/main/Github%20Image.jpeg?raw=true" width="100%" />
+  <img src="https://github.com/nikhil-surve-dev/nikhil-surve-dev/blob/main/GitHub%20Image.png?raw=true" width="100%" />
 </p>
 
 <h3 align="center">Bridging Human Creativity with Technology 🚀</h3>
