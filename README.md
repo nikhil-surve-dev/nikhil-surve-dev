@@ -4,11 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Projects;Learning+Data+Science;Open+to+Internships;Always+Learning+New+Tech" />
 </p>
 
-<p align="center">
- <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhil-surve-dev/nikhil-surve-dev/output/github-contribution-grid-snake.svg" />
-</p>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nikhil-surve-dev/nikhil-surve-dev/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 <h3 align="center">Bridging Human Creativity with Technology 🚀</h3>
 
