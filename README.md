@@ -5,7 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/nikhil-surve-dev/nikhil-surve-dev/blob/main/GitHub%20IMG.jpeg?raw=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/nikhil-surve-dev/nikhil-surve-dev/output/github-contribution-grid-snake-dark.svg" />
+    
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/nikhil-surve-dev/nikhil-surve-dev/output/github-contribution-grid-snake.svg" />
+    
+    <img alt="github contribution snake animation" 
+      src="https://raw.githubusercontent.com/nikhil-surve-dev/nikhil-surve-dev/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <h3 align="center">Bridging Human Creativity with Technology 🚀</h3>
