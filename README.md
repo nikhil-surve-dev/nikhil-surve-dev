@@ -1,30 +1,66 @@
 <h1 align="center">Hi 👋, I'm Nikhil Surve</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Projects;Learning+Data+Science;Open+to+Internships;Always+Learning+New+Tech" />
+  <strong>Aspiring Full-Stack Developer · AI & Data Science Learner</strong>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nikhil-surve-dev/nikhil-surve-dev/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<p align="center">
+  <a href="https://github.com/nikhil-surve-dev">
+    <img src="https://komarev.com/ghpvc/?username=nikhil-surve-dev&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  </a>
+  <a href="https://github.com/nikhil-surve-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Projects-2ea44f?style=for-the-badge&logo=github" alt="Explore my projects" />
+  </a>
+</p>
 
-<h3 align="center">Bridging Human Creativity with Technology 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&size=24&center=true&vCenter=true&width=700&lines=Building+real-world+projects;Learning+Full-Stack+Development;Exploring+AI+and+Data+Science;Improving+one+commit+at+a+time" alt="Animated introduction" />
+</p>
 
 ---
 
+## 👨‍💻 About Me
 
-# 💫 About Me:
-Hi 👋  <br>Aspiring Full Stack Developer 🚀  <br><br>💻 I’m currently working on  <br>- Full Stack Web Development projects  <br>- Building real-world portfolio projects  <br><br>🤝 I’m looking to collaborate on  <br>- Web development & open source projects  <br><br>🆘 I’m looking for help with  <br>- Advanced JavaScript & Backend  <br><br>🌱 I’m currently learning  <br>- Full Stack Development + Data Science  <br><br>💬 Ask me about  <br>- Web Development, GitHub, Projects  <br><br>⚡ Fun fact  <br>- I can build a project in 1 day but overthink the design for 3 days 😅
+- 🎓 B.Sc. Information Technology student
+- 🛠️ Building practical projects across web development and AI
+- 🌱 Currently improving my full-stack, backend, and data science skills
+- 🤝 Interested in meaningful collaboration and beginner-friendly open source
+- 💬 Happy to discuss projects, web technologies, and what I am learning
 
+## 🚀 Featured Projects
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikh.404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-surve-dev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_nik_surve) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:survenikhil94@gmail.com) 
+| Project | What it is | Repository |
+|---|---|---|
+| **AI Resume Builder** | A React-based resume builder with AI integration and PDF export | [View project](https://github.com/nikhil-surve-dev/ai-resume-builder) |
+| **FitMart** | A MERN-stack fitness and nutrition e-commerce project | [View project](https://github.com/nikhil-surve-dev/FitMart) |
+| **FinSight AI** | A personal finance tracker concept with AI-assisted insights | [View project](https://github.com/nikhil-surve-dev/finsight-ai) |
+| **Bank Management System** | A C++ console project using OOP and file handling | [View project](https://github.com/nikhil-surve-dev/Bank-Management-System) |
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-## 📊 GitHub Stats
+## 🧰 Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhil-surve-dev&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=nikhil-surve-dev&theme=github-dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,git,github,figma&perline=6" alt="Technologies and tools" />
 </p>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhil-surve-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=nikhil-surve-dev&theme=github-dark&hide_border=true" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhil-surve-dev/nikhil-surve-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/nikhil-surve-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/nikh.404"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:survenikhil94@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+<p align="center"><em>Learning by building. Improving with every project.</em></p>
