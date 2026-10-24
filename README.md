@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nikhil-surve-dev">
-    <img src="https://komarev.com/ghpvc/?username=nikhil-surve-dev&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <a href="https://github.com/nikkk-surve">
+    <img src="https://komarev.com/ghpvc/?username=nikkk-surve&style=for-the-badge&color=blueviolet" alt="Profile views" />
   </a>
-  <a href="https://github.com/nikhil-surve-dev?tab=repositories">
+  <a href="https://github.com/nikkk-surve?tab=repositories">
     <img src="https://img.shields.io/badge/Explore-My%20Projects-2ea44f?style=for-the-badge&logo=github" alt="Explore my projects" />
   </a>
 </p>
@@ -31,10 +31,10 @@
 
 | Project | What it is | Repository |
 |---|---|---|
-| **AI Resume Builder** | A React-based resume builder with AI integration and PDF export | [View project](https://github.com/nikhil-surve-dev/ai-resume-builder) |
-| **FitMart** | A MERN-stack fitness and nutrition e-commerce project | [View project](https://github.com/nikhil-surve-dev/FitMart) |
-| **FinSight AI** | A personal finance tracker concept with AI-assisted insights | [View project](https://github.com/nikhil-surve-dev/finsight-ai) |
-| **Bank Management System** | A C++ console project using OOP and file handling | [View project](https://github.com/nikhil-surve-dev/Bank-Management-System) |
+| **AI Resume Builder** | A React-based resume builder with AI integration and PDF export | [View project](https://github.com/nikkk-surve/ai-resume-builder) |
+| **FitMart** | A MERN-stack fitness and nutrition e-commerce project | [View project](https://github.com/nikkk-surve/FitMart) |
+| **FinSight AI** | A personal finance tracker concept with AI-assisted insights | [View project](https://github.com/nikkk-surve/finsight-ai) |
+| **Bank Management System** | A C++ console project using OOP and file handling | [View project](https://github.com/nikkk-surve/Bank-Management-System) |
 
 ## 🧰 Technologies
 
@@ -45,12 +45,12 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikhil-surve-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=nikhil-surve-dev&theme=github-dark&hide_border=true" alt="Contribution streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nikkk-surve&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=nikkk-surve&theme=github-dark&hide_border=true" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhil-surve-dev/nikhil-surve-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation" />
+  <img src="https://raw.githubusercontent.com/nikkk-surve/nikkk-surve/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation" />
 </p>
 
 ## 🤝 Connect With Me
